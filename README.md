@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-[Run Buddy] (https://maxamedncx.github.io/Run-Buddy-Module-1/)
+[Run Buddy](https://maxamedncx.github.io/Run-Buddy-Module-1/)
 
 ## Contribution
 Made with ❤️ by [your name]
